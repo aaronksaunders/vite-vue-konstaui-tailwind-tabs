@@ -1,0 +1,7 @@
+{
+  "name": "vite-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
